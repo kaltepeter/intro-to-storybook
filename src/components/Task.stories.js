@@ -14,7 +14,7 @@ Default.args = {
     task: {
         id: '1',
         title: 'Test Task',
-        state: 'TASK_INDEX'
+        state: 'TASK_INBOX'
     }
 }
 
