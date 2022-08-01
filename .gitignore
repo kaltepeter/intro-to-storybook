@@ -24,3 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 *.pem
 .env
+storybook-static
+*-storybook.log
